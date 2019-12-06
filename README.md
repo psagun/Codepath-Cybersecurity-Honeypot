@@ -31,4 +31,4 @@ Also, I'm not able to see the country flags which I guess is the bug.
 
 4. Any unresolved questions raised by the data collected: No
 
-![](https://github.com/sagunpandey123/WebSecurityHoneypot/blob/master/Screen%20Shot%202019-12-05%20at%2010.49.42%20PM.png)
+![](https://github.com/sagunpandey123/WebSecurityHoneypot/blob/master/Honeypot.gif)
